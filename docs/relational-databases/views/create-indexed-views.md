@@ -25,7 +25,7 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 07/01/2020
 ms.locfileid: "85727072"
 ---
-# <a name="create-indexed-views"></a>Crear vistas indizadas
+# <a name="create-indexed-views"></a>Crear vistas indexadas
 
 [!INCLUDE [SQL Server SQL Database](../../includes/applies-to-version/sql-asdb.md)]
 
